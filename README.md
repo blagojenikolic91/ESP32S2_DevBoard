@@ -34,3 +34,5 @@ Get fabrication files from [**Gumroad**](https://blnlabs.gumroad.com/l/ESP32-S2D
 * [**YouTube Video**: KiCad to JLCPCB - Gerber and SMD assembly](https://youtu.be/nr_URKTHS4Y)
 * [**Blog Post**: Step-by-step guide: PCB from Schematic to Fabrication and Assembly](https://blnlabs.com/step-by-step-guide-pcb-from-schematic-to-fabrication-and-assembly/)
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="blagojemrk" data-color="#5F7FFF" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
